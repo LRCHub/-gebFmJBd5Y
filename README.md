@@ -1,0 +1,46 @@
+# HOYO-MiX、Chrissy Costanza – Blazing Heart (English Ver.)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:27.88] When the night is closing in
+[00:31.20] And you feel the darkness growing (growing)
+[00:35.34] Hope is fading every day (day)
+[00:50.34] 
+[00:40.01] Deep in my heart, there is a fire glowing
+[00:43.77] Light the spark and hear the engines roaring
+[00:46.86] Ride with me through the storm
+[00:49.97] Together, we'll find a way
+[01:02.97] 
+[00:54.97] Let your flame burn brighter
+[00:59.23] Can't you see it's now or never?
+[01:02.70] This is our moment, now is our time
+[01:05.53] So follow me to the finish line
+[01:21.03] 
+[01:09.60] Let your soul awaken
+[01:12.83] Destiny is what we make it
+[01:16.43] Ride with me to victory
+[01:27.93] 
+[01:22.04] (Let it burn)
+[01:29.44] Let it burn
+[01:34.94] 
+[01:36.52] (Ooh-ooh, ooh-ooh, ooh-ooh)
+[01:39.96] (Ooh-ooh, ooh-ooh, ooh-ooh)
+[01:43.39] Ooh-ooh, ooh-ooh, ooh-ooh
+[01:46.87] Ooh-ooh, ooh-ooh, ooh-ooh
+[01:50.99] Ooh-ooh, ooh-ooh, ooh-ooh
+[02:03.49] 
+[01:55.07] When your faith is shaken
+[01:59.55] Trust in me, that dawn is breaking
+[02:03.08] Head into the light, I'm here by your side
+[02:06.24] I never will let you go
+[02:17.74] 
+[02:09.22] Let your flame burn brighter
+[02:13.52] Stand with me and be united
+[02:16.98] This is our moment, now is our time
+[02:19.97] So follow me to the finish line
+[02:35.47] 
+[02:23.84] Let your soul awaken
+[02:27.16] Destiny is what we make it
+[02:30.85] Ride or die, rise up, tonight
+```
