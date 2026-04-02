@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Blazing Heart (English Ver.)",
+  "base_artist": "HOYO-MiX、Chrissy Costanza",
+  "createdAt": "2026-04-02T07:18:36.558272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blazing Heart (English Ver.)",
+      "artist": "HOYO-MiX & Chrissy Costanza",
+      "has_synced": true,
+      "path": "select/01_Blazing_Heart_(English_Ver.)_HOYO-MiX_&_Chrissy_Costanza.lrc"
+    }
+  ]
+}
